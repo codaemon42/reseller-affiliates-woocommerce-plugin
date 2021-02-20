@@ -24,9 +24,9 @@ Compatible with all woocommerce payment gateways.
 
 <hr/>
 <div align="center" style="margin-bottom: 50px;">
-    <img src="/screenshots/screenshot_1.png" style="box-shadow: 1px 1px 7px 1px #666;" height="100%" width="100%"</img> 
+    <img src="/screenshots/Screenshot_1.png" style="box-shadow: 1px 1px 7px 1px #666;"</img> 
 </div><br/><br/><hr/>
 <div align="center" style="margin-bottom: 50px;">
-    <img src="/screenshots/screenshot_1.png" style="box-shadow: 1px 1px 7px 1px #666;" height="100%" width="100%"</img> 
+    <img src="/screenshots/Screenshot_2.png" style="box-shadow: 1px 1px 7px 1px #666;"</img> 
 </div><br/><br/><hr/>
 
