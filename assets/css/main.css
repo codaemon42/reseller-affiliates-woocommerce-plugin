@@ -1,0 +1,71 @@
+.resell_section{
+    width: 100%;
+    background: #497fe2;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom:20px;
+    box-shadow: 5px 10px 18px #497fe2;
+    color: white;
+}
+.resell_label{
+    width:50%;
+}
+#resell_cart_quantity1,
+#resell_cart_quantity2,
+#resell_cart_quantity3,
+#resell_cart_quantity4,
+#resell_price1,
+#resell_price2,
+#resell_price3,
+#resell_price4{
+    width: 50%;
+    
+    padding: 4px 9px;
+    border-radius: 5px;
+    border: 1px solid #333;
+
+    float: right;
+    box-shadow: 5px 10px 18px #155bdb;
+}
+.reselling_price_div{
+ width:100%;
+ margin-top:20px;
+}
+#resell{
+    width:100%;
+    background:rgb(84, 8, 184);
+    color:#fff;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #083486;
+    margin-bottom: 10px;
+}
+#resell_clear{
+    background:rgb(231, 31, 64);
+    color:#fff;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #a30910;
+    margin-bottom: 10px;
+}
+#resell:hover{
+    box-shadow: 5px 10px 18px #b0c7f100;
+}
+#resell_clear:hover{
+    box-shadow: 5px 10px 18px #a3091100;
+}
+.resell_sub_total_price,
+.resell_shipping_total_price,
+.resell_total_price{
+    font-size: 30px;
+    margin-left:5px;
+    margin-right:10px;
+    float:right;
+}
+.resell-menu{
+    padding: 10px;
+    background: #155bdb;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none !important;
+    margin-bottom:10px;
+    box-shadow: 5px 10px 18px #083486;
+}
